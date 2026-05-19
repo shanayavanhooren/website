@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Shanaya Vanhooren"
+  favicon: ""
+  navbar:
+    background: "#1a2a3a"
+    foreground: "#f0f0f0"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: media.qmd
+        text: Media
+  page-footer:
+    center: "© 2026 Shanaya Vanhooren"
+    background: "#f5f5f5"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true

@@ -1,0 +1,15 @@
+---
+title: "Curriculum Vitae"
+---
+
+<a href="CV_Vanhooren_Jan2026.pdf" download style="font-size:0.9rem; color:#4a6fa5; text-decoration:none; border:1px solid #4a6fa5; padding:0.25rem 0.7rem; border-radius:3px; margin-bottom:1.25rem; display:inline-block;">
+  ↓ Download PDF
+</a>
+
+```{=html}
+<iframe
+  class="cv-embed"
+  src="CV_Vanhooren_Jan2026.pdf"
+  title="Shanaya Vanhooren — Curriculum Vitae">
+</iframe>
+```

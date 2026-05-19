@@ -1,0 +1,93 @@
+---
+title: "Research"
+---
+
+::: {.section-heading}
+Peer-Reviewed Publications
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Somebody to Lean On: Community Ties, Social Exchange, and Practical Help During the COVID-19 Pandemic."</span><br>
+<span class="pub-authors">Martin Horak and <strong>Shanaya Vanhooren</strong></span><br>
+<span class="pub-journal">City & Community</span>, Vol. 23, No. 1 (2024), pp. 3–25.
+
+::: {.pub-links}
+[Publisher](https://doi.org/10.1177/15356841231159370)
+:::
+
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Local Election Campaign Finance Regimes in Canada: Toward a Research Agenda."</span><br>
+<span class="pub-authors">Zack Taylor and <strong>Shanaya Vanhooren</strong></span><br>
+<span class="pub-journal">Canadian Public Administration</span>, Vol. 64, No. 1 (2021), pp. 99–121.
+
+::: {.pub-links}
+[Publisher](https://doi.org/10.1111/capa.12400)
+:::
+
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"The Governance of Climate Change Adaptation: Stormwater Management Policy and Practice."</span><br>
+<span class="pub-authors">Daniel Henstra, Jason Thistlethwaite, and <strong>Shanaya Vanhooren</strong></span><br>
+<span class="pub-journal">Journal of Environmental Policy & Planning</span>, Vol. 22, No. 3 (2020), pp. 155–176.
+
+::: {.pub-links}
+[Publisher](https://doi.org/10.1080/09640568.2019.1634015)
+:::
+
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Improving First Nations Water Security Through Governance."</span><br>
+<span class="pub-authors">Christopher Alcantara, Sheri Longboat, and <strong>Shanaya Vanhooren</strong></span><br>
+<span class="pub-journal">Canadian Public Administration</span>, Vol. 63, No. 1 (2020), pp. 155–176.
+
+::: {.pub-links}
+[Publisher](https://doi.org/10.1111/capa.12363)
+:::
+
+:::
+
+::: {.section-heading}
+Under Review & Working Papers
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics."</span><br>
+<span class="pub-authors">Martin Horak, Jack Lucas, <strong>Shanaya Vanhooren</strong>, and David Armstrong</span><br>
+Under review at *Nature Cities*.
+
+::: {.pub-links}
+[Draft available upon request]()
+:::
+
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Municipal Issue Publics."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong>, Jack Lucas, and Sandra Breux</span><br>
+Under review at *Urban Affairs Review*.
+
+::: {.pub-links}
+[Draft available upon request]()
+:::
+
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Programmatic Polarization in Provincial Elections 1945–2025."</span><br>
+Working paper.
+
+::: {.pub-links}
+[Draft available upon request]()
+:::
+
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Strong Mayor Powers in Ontario: Usage and Impact."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong>, Gabriel Eidelman, and Zachary Spicer</span><br>
+Working paper.
+:::

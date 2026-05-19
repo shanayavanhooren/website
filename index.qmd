@@ -1,0 +1,33 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="about-block">
+  <img src="profile.jpg" alt="Shanaya Vanhooren" />
+  <div class="about-text">
+    <h1>Shanaya Vanhooren</h1>
+    <p class="position">
+      Postdoctoral Research Fellow<br>
+      [Institut national de la recherche scientifique (INRS)]
+    </p>
+    <p>
+      I am postdoctoral research fellow at INRS. My research sits at the intersection of local and provincial politics, with a focus on political parties and representation. My work draws on quantitative text analysis, archival research, regression, among other tools to examine how political parties and elected officials' policy positions and ideas of representation.
+    </p>
+    <p>
+      I completed my doctoral studies at the University of Western Ontario. I have taught introductory quantitative methods and  public policy courses.
+    </p>
+    <div class="contact-links">
+      <a href="mailto:shanaya.vanhooren@inrs.ca">Email</a>
+      <a href="cv.html">CV</a>
+      <a href="https://scholar.google.com/citations?user=GF-hc9QAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    </div>
+  </div>
+</div>
+```
+
+::: {.section-heading}
+Research Interests
+:::
+
+[Provincial political parties' policy positions] &nbsp;·&nbsp; [Local politics] &nbsp;·&nbsp; [Representation] &nbsp;·&nbsp; [Public policy]
