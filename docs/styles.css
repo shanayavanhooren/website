@@ -1,0 +1,203 @@
+/* ── Typography ── */
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  color: #2d2d2d;
+  background-color: #ffffff;
+  font-size: 1.2rem;
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Georgia", serif;
+  color: #1a2a3a;
+  font-weight: normal;
+}
+
+/* ── Navbar ── */
+.navbar {
+  border-bottom: 2px solid #c8a96e;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.navbar-brand {
+  font-size: 1.15rem;
+  font-weight: normal;
+  letter-spacing: 0.03em;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.25rem 1rem !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #c8a96e !important;
+}
+
+/* ── Page layout ── */
+#quarto-content {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 2.5rem 5rem;
+}
+
+/* ── About / profile block ── */
+.about-name {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  color: #1a2a3a;
+}
+
+.about-top {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+}
+
+.about-top img {
+  width: 240px;
+  height: 280px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+  flex-shrink: 0;
+}
+
+.about-position .position {
+  font-size: 1.05rem;
+  color: #555;
+  font-style: italic;
+  margin-top: 0.5rem;
+  line-height: 1.9;
+}
+
+.about-bio {
+  margin-top: 1.5rem;
+}
+
+.contact-links {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.contact-links a {
+  color: #4a6fa5;
+  margin-right: 1.25rem;
+  text-decoration: none;
+}
+
+.contact-links a:hover {
+  text-decoration: underline;
+}
+
+/* ── Section headings ── */
+.section-heading {
+  font-size: 1.25rem;
+  border-bottom: 1px solid #c8a96e;
+  padding-bottom: 0.35rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #1a2a3a;
+}
+
+/* ── Publication entries ── */
+.pub-entry {
+  margin-bottom: 1.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid #dde3ea;
+}
+
+.pub-entry .pub-title {
+  font-weight: bold;
+  color: #1a2a3a;
+}
+
+.pub-entry .pub-authors {
+  color: #555;
+  font-size: 0.97rem;
+}
+
+.pub-entry .pub-journal {
+  font-style: italic;
+  color: #555;
+}
+
+.pub-entry .pub-links a {
+  font-size: 0.85rem;
+  color: #4a6fa5;
+  margin-right: 0.75rem;
+  text-decoration: none;
+  border: 1px solid #4a6fa5;
+  padding: 0.1rem 0.45rem;
+  border-radius: 3px;
+}
+
+.pub-entry .pub-links a:hover {
+  background-color: #4a6fa5;
+  color: #fff;
+}
+
+/* ── Project entries ── */
+.project-entry {
+  margin-bottom: 1.5rem;
+}
+
+.project-entry .project-title {
+  font-weight: bold;
+  color: #1a2a3a;
+}
+
+/* ── Media entries ── */
+.media-entry {
+  margin-bottom: 1.25rem;
+  padding-left: 1rem;
+  border-left: 3px solid #dde3ea;
+}
+
+.media-entry .media-outlet {
+  font-weight: bold;
+  color: #1a2a3a;
+}
+
+.media-entry .media-date {
+  font-size: 0.88rem;
+  color: #777;
+}
+
+/* ── CV embed ── */
+.cv-embed {
+  width: 100%;
+  height: 85vh;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+/* ── Footer ── */
+.nav-footer {
+  border-top: 1px solid #ddd;
+  font-size: 0.85rem;
+  color: #888;
+  padding: 1rem 0;
+}
+
+/* ── Responsive ── */
+@media (max-width: 700px) {
+  #quarto-content {
+    padding: 2rem 1.5rem;
+  }
+  .about-top {
+    flex-direction: column;
+  }
+  .about-top img {
+    width: 180px;
+    height: 210px;
+  }
+}
