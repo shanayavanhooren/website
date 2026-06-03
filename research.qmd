@@ -5,6 +5,14 @@ title: "Research"
 ::: {.section-heading}
 Peer-Reviewed Publications
 :::
+::: {.pub-entry}
+<span class="pub-title">"Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics."</span><br>
+<span class="pub-authors">Martin Horak, Jack Lucas, <strong>Shanaya Vanhooren</strong>, and David Armstrong</span><br>
+Accepted at *Nature Cities*.
+
+::: {.pub-links}
+[Draft available upon request]()
+:::
 
 ::: {.pub-entry}
 <span class="pub-title">"Somebody to Lean On: Community Ties, Social Exchange, and Practical Help During the COVID-19 Pandemic."</span><br>
@@ -54,14 +62,6 @@ Peer-Reviewed Publications
 Under Review & Working Papers
 :::
 
-::: {.pub-entry}
-<span class="pub-title">"Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics."</span><br>
-<span class="pub-authors">Martin Horak, Jack Lucas, <strong>Shanaya Vanhooren</strong>, and David Armstrong</span><br>
-Under review at *Nature Cities*.
-
-::: {.pub-links}
-[Draft available upon request]()
-:::
 
 :::
 
