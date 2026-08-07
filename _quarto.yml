@@ -15,8 +15,6 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: cv.qmd
-        text: CV
       - href: media.qmd
         text: Media
   page-footer:

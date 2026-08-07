@@ -23,7 +23,6 @@ title: ""
   </p>
   <div class="contact-links">
     <a href="mailto:shanaya.vanhooren@inrs.ca">Email</a>
-    <a href="cv.html">CV</a>
     <a href="https://scholar.google.com/citations?user=GF-hc9QAAAAJ&hl=en" target="_blank">Google Scholar</a>
   </div>
 </div>
