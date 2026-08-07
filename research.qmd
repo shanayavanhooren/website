@@ -5,6 +5,7 @@ title: "Research"
 ::: {.section-heading}
 Peer-Reviewed Publications
 :::
+
 ::: {.pub-entry}
 <span class="pub-title">"Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics."</span><br>
 <span class="pub-authors">Martin Horak, Jack Lucas, <strong>Shanaya Vanhooren</strong>, and David Armstrong</span><br>
@@ -12,6 +13,7 @@ Accepted at *Nature Cities*.
 
 ::: {.pub-links}
 [Draft available upon request]()
+:::
 :::
 
 ::: {.pub-entry}
@@ -22,7 +24,6 @@ Accepted at *Nature Cities*.
 ::: {.pub-links}
 [Publisher](https://doi.org/10.1177/15356841231159370)
 :::
-
 :::
 
 ::: {.pub-entry}
@@ -33,7 +34,6 @@ Accepted at *Nature Cities*.
 ::: {.pub-links}
 [Publisher](https://doi.org/10.1111/capa.12400)
 :::
-
 :::
 
 ::: {.pub-entry}
@@ -44,7 +44,6 @@ Accepted at *Nature Cities*.
 ::: {.pub-links}
 [Publisher](https://doi.org/10.1080/09640568.2019.1634015)
 :::
-
 :::
 
 ::: {.pub-entry}
@@ -55,14 +54,10 @@ Accepted at *Nature Cities*.
 ::: {.pub-links}
 [Publisher](https://doi.org/10.1111/capa.12363)
 :::
-
 :::
 
 ::: {.section-heading}
 Under Review & Working Papers
-:::
-
-
 :::
 
 ::: {.pub-entry}
@@ -73,7 +68,6 @@ Under review at *Urban Affairs Review*.
 ::: {.pub-links}
 [Draft available upon request]()
 :::
-
 :::
 
 ::: {.pub-entry}
@@ -83,7 +77,6 @@ Working paper.
 ::: {.pub-links}
 [Draft available upon request]()
 :::
-
 :::
 
 ::: {.pub-entry}

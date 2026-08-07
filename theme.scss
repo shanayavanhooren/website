@@ -1,0 +1,378 @@
+/*-- scss:defaults --*/
+
+// ── Fonts ──
+$font-family-serif: "Newsreader", Georgia, "Times New Roman", serif;
+$font-family-sans-serif: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$font-family-base: $font-family-serif;
+
+// ── Palette ──
+$cream:      #f7f3ec; // warm off-white page background
+$surface:    #fffdf9; // cards / embeds
+$ink:        #22201c; // body text
+$ink-strong: #1a2a30; // headings
+$muted:      #6c665d; // secondary text
+$accent:     #1d4a66; // links & rules (deep teal-navy)
+$line:       #e2dccf; // hairlines
+
+$body-bg:    $cream;
+$body-color: $ink;
+
+// ── Links ──
+$link-color:            $accent;
+$link-decoration:       none;
+$link-hover-color:      darken($accent, 8%);
+$link-hover-decoration: underline;
+
+// ── Headings ──
+$headings-font-family: $font-family-serif;
+$headings-font-weight: 500;
+$headings-color:       $ink-strong;
+$headings-line-height: 1.15;
+
+// ── Navbar (light, cream) ──
+$navbar-bg:                  #f1ebe0;
+$navbar-light-color:         rgba($ink, 0.75);
+$navbar-light-hover-color:   $accent;
+$navbar-light-active-color:  $accent;
+$navbar-light-brand-color:   $ink-strong;
+
+/*-- scss:rules --*/
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap");
+
+:root {
+  --bg: #{$cream};
+  --surface: #{$surface};
+  --ink: #{$ink};
+  --ink-strong: #{$ink-strong};
+  --muted: #{$muted};
+  --accent: #{$accent};
+  --line: #{$line};
+}
+
+// ── Base typography ──
+body {
+  font-family: $font-family-serif;
+  font-size: 1.15rem;      // ~18.4px
+  line-height: 1.62;
+  color: var(--ink);
+  background-color: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4 {
+  font-family: $font-family-serif;
+  font-weight: 500;
+  color: var(--ink-strong);
+  letter-spacing: -0.01em;
+}
+
+p { margin-bottom: 1.1rem; }
+
+// ── Page layout ──
+#quarto-content {
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 3rem 2rem 4rem;
+}
+
+// Quarto page title (h1.title)
+#title-block-header .title,
+h1.title {
+  font-size: 2.15rem;
+  margin-bottom: 1.75rem;
+  letter-spacing: -0.015em;
+}
+
+// ── Navbar ──
+.navbar {
+  border-bottom: 1px solid var(--line);
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  font-family: $font-family-sans-serif;
+}
+
+.navbar-brand {
+  font-family: $font-family-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.navbar-nav .nav-link {
+  font-family: $font-family-sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.4rem 0.9rem !important;
+  border-radius: 999px;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--accent) !important;
+  background-color: rgba($accent, 0.07);
+}
+
+.navbar-nav .nav-link.active {
+  color: var(--accent) !important;
+  background-color: rgba($accent, 0.1);
+}
+
+// ── About / profile block ──
+.about-name {
+  font-size: 2.15rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: var(--ink-strong);
+  letter-spacing: -0.015em;
+}
+
+.about-top {
+  display: flex;
+  gap: 2.25rem;
+  align-items: center;
+  margin-bottom: 1.75rem;
+}
+
+.about-top img {
+  width: 230px;
+  height: 275px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 6px;
+  background-color: var(--surface);
+  box-shadow: 0 2px 14px rgba($ink, 0.09);
+  flex-shrink: 0;
+}
+
+.about-position .role {
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-style: normal;
+  color: var(--ink-strong);
+  line-height: 1.35;
+  margin: 0 0 0.7rem;
+}
+
+.about-position .affil {
+  font-size: 1.02rem;
+  font-style: italic;
+  color: var(--muted);
+  line-height: 1.45;
+  margin: 0 0 0.35rem;
+}
+
+.about-position .affil:last-child {
+  margin-bottom: 0;
+}
+
+.about-bio {
+  margin-top: 1.5rem;
+}
+
+// ── Contact links (buttons) ──
+.contact-links {
+  margin-top: 1.6rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.contact-links a {
+  color: var(--accent);
+  text-decoration: none;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-weight: 500;
+  border: 1px solid rgba($accent, 0.35);
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  transition: all 0.15s ease;
+}
+
+.contact-links a:hover {
+  background-color: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+// ── Section headings ──
+.section-heading {
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--accent);
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+// ── Publication entries ──
+.pub-entry {
+  margin-bottom: 1.6rem;
+  padding-left: 1.4rem;
+  position: relative;
+}
+
+.pub-entry::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55rem;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: var(--accent);
+  opacity: 0.55;
+}
+
+.pub-entry .pub-title {
+  font-weight: 600;
+  color: var(--ink-strong);
+}
+
+.pub-entry .pub-authors {
+  color: var(--muted);
+  font-size: 0.98rem;
+}
+
+.pub-entry .pub-journal {
+  font-style: italic;
+  color: var(--muted);
+}
+
+.pub-entry .pub-links {
+  margin-top: 0.4rem;
+}
+
+.pub-entry .pub-links a {
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--accent);
+  margin-right: 0.5rem;
+  text-decoration: none;
+  border: 1px solid rgba($accent, 0.35);
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+
+.pub-entry .pub-links a:hover {
+  background-color: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+// ── Project entries ──
+.project-entry {
+  margin-bottom: 1.5rem;
+}
+
+.project-entry .project-title {
+  font-weight: 600;
+  color: var(--ink-strong);
+}
+
+// ── Media entries ──
+.media-entry {
+  margin-bottom: 1.5rem;
+  padding-left: 1.4rem;
+  position: relative;
+}
+
+.media-entry::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55rem;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: var(--accent);
+  opacity: 0.55;
+}
+
+.media-entry .media-outlet {
+  font-weight: 600;
+  color: var(--ink-strong);
+}
+
+.media-entry .media-date {
+  font-family: $font-family-sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+}
+
+// ── Download button (CV) ──
+.download-btn {
+  display: inline-block;
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--accent);
+  text-decoration: none;
+  border: 1px solid rgba($accent, 0.35);
+  padding: 0.45rem 1rem;
+  border-radius: 999px;
+  margin-bottom: 1.5rem;
+  transition: all 0.15s ease;
+}
+
+.download-btn:hover {
+  background-color: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+// ── CV embed ──
+.cv-embed {
+  width: 100%;
+  height: 85vh;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background-color: var(--surface);
+}
+
+// ── Footer ──
+.nav-footer {
+  border-top: 1px solid var(--line);
+  background-color: var(--bg) !important;
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  color: var(--muted);
+  padding: 1.5rem 0;
+}
+
+// ── Responsive ──
+@media (max-width: 700px) {
+  body { font-size: 1.08rem; }
+
+  #quarto-content {
+    padding: 2rem 1.4rem 3rem;
+  }
+
+  .about-top {
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .about-top img {
+    width: 190px;
+    height: 225px;
+  }
+}
