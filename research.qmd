@@ -7,12 +7,22 @@ Peer-Reviewed Publications
 :::
 
 ::: {.pub-entry}
+<span class="pub-title">"Municipal Issue Publics."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong>, Jack Lucas, and Sandra Breux</span><br>
+Forthcoming (2026), <span class="pub-journal">Urban Affairs Review</span>.
+
+::: {.pub-note}
+Draft available upon request
+:::
+:::
+
+::: {.pub-entry}
 <span class="pub-title">"Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics."</span><br>
-<span class="pub-authors">Martin Horak, Jack Lucas, <strong>Shanaya Vanhooren</strong>, and David Armstrong</span><br>
-Accepted at *Nature Cities*.
+<span class="pub-authors">Jack Lucas, Martin Horak, <strong>Shanaya Vanhooren</strong>, and David A. Armstrong II</span><br>
+<span class="pub-journal">Nature Cities</span>, Vol. 3 (2026), pp. 514–522.
 
 ::: {.pub-links}
-[Draft available upon request]()
+[Publisher](https://doi.org/10.1038/s44284-026-00450-y)
 :::
 :::
 
@@ -37,50 +47,97 @@ Accepted at *Nature Cities*.
 :::
 
 ::: {.pub-entry}
-<span class="pub-title">"The Governance of Climate Change Adaptation: Stormwater Management Policy and Practice."</span><br>
-<span class="pub-authors">Daniel Henstra, Jason Thistlethwaite, and <strong>Shanaya Vanhooren</strong></span><br>
-<span class="pub-journal">Journal of Environmental Policy & Planning</span>, Vol. 22, No. 3 (2020), pp. 155–176.
-
-::: {.pub-links}
-[Publisher](https://doi.org/10.1080/09640568.2019.1634015)
-:::
-:::
-
-::: {.pub-entry}
 <span class="pub-title">"Improving First Nations Water Security Through Governance."</span><br>
 <span class="pub-authors">Christopher Alcantara, Sheri Longboat, and <strong>Shanaya Vanhooren</strong></span><br>
 <span class="pub-journal">Canadian Public Administration</span>, Vol. 63, No. 1 (2020), pp. 155–176.
+
+::: {.pub-note}
+Among the top 10 most downloaded *Canadian Public Administration* articles, 2019–2020
+:::
 
 ::: {.pub-links}
 [Publisher](https://doi.org/10.1111/capa.12363)
 :::
 :::
 
+::: {.pub-entry}
+<span class="pub-title">"The Governance of Climate Change Adaptation: Stormwater Management Policy and Practice."</span><br>
+<span class="pub-authors">Daniel Henstra, Jason Thistlethwaite, and <strong>Shanaya Vanhooren</strong></span><br>
+<span class="pub-journal">Journal of Environmental Planning and Management</span>, Vol. 63, No. 6 (2020), pp. 1077–1096.
+
+::: {.pub-links}
+[Publisher](https://doi.org/10.1080/09640568.2019.1634015)
+:::
+:::
+
 ::: {.section-heading}
-Under Review & Working Papers
+Under Review
 :::
 
 ::: {.pub-entry}
-<span class="pub-title">"Municipal Issue Publics."</span><br>
-<span class="pub-authors"><strong>Shanaya Vanhooren</strong>, Jack Lucas, and Sandra Breux</span><br>
-Under review at *Urban Affairs Review*.
+<span class="pub-title">"Issue Salience in Party Platforms: Introducing the Canadian Archive of Provincial Party Manifestos 1945–2025."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong></span><br>
+Under review at <span class="pub-journal">Canadian Journal of Political Science</span>.
+
+::: {.pub-note}
+Draft available upon request
+:::
+:::
+
+::: {.section-heading}
+Working Papers
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Programmatic Polarization in Provincial Elections 1945–2020."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong></span>
+
+::: {.pub-note}
+Draft available upon request
+:::
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Timing and Magnitude of Position Change Among Canadian Provincial Parties."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong></span>
+
+::: {.pub-note}
+Draft available upon request
+:::
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Centralizing Authority in Local Government: The Introduction of Strong Mayor Powers in Ontario, Canada."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong>, Zachary Spicer, and Gabriel Eidelman</span>
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Informality and Accountability: Conversations Between Municipal Elected Officials and Citizens."</span><br>
+<span class="pub-authors">Sandra Breux and <strong>Shanaya Vanhooren</strong></span>
+:::
+
+::: {.section-heading}
+Policy Reports & Non-Referred Contributions
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Disagreements in Municipal Politics: How Location Shapes the Ways Residents Think About Policy."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong></span><br>
+Forthcoming (October 2026), <span class="pub-journal">Municipal World</span>.
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Close to Home: How the Location of Policies Shapes How People Think About Them."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong></span><br>
+<span class="pub-journal">Canadian Municipal Barometer</span> Substack (June 2026).
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Beyond the Big City, Appendix A: Jurisdictional Scan."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong></span><br>
+Pathways to Prosperity Partnership (2019). Report for Immigration, Refugees, and Citizenship Canada and the Government of Ontario.
 
 ::: {.pub-links}
-[Draft available upon request]()
+[Report](https://ppforum.ca/wp-content/uploads/2019/07/BeyondTheBigCity_AppendixAJurisdictionalScan-PPF-July2019-1.pdf)
 :::
-:::
-
-::: {.pub-entry}
-<span class="pub-title">"Programmatic Polarization in Provincial Elections 1945–2025."</span><br>
-Working paper.
-
-::: {.pub-links}
-[Draft available upon request]()
-:::
-:::
-
-::: {.pub-entry}
-<span class="pub-title">"Strong Mayor Powers in Ontario: Usage and Impact."</span><br>
-<span class="pub-authors"><strong>Shanaya Vanhooren</strong>, Gabriel Eidelman, and Zachary Spicer</span><br>
-Working paper.
 :::

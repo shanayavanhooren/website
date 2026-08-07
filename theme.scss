@@ -266,6 +266,13 @@ h1.title {
   color: var(--muted);
 }
 
+.pub-entry .pub-note {
+  margin-top: 0.3rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--muted);
+}
+
 .pub-entry .pub-links {
   margin-top: 0.4rem;
 }
