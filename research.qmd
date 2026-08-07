@@ -71,21 +71,16 @@ Among the top 10 most downloaded *Canadian Public Administration* articles, 2019
 :::
 
 ::: {.section-heading}
-Under Review
+Working Papers
 :::
 
 ::: {.pub-entry}
 <span class="pub-title">"Issue Salience in Party Platforms: Introducing the Canadian Archive of Provincial Party Manifestos 1945–2025."</span><br>
-<span class="pub-authors"><strong>Shanaya Vanhooren</strong></span><br>
-Under review at <span class="pub-journal">Canadian Journal of Political Science</span>.
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong></span>
 
 ::: {.pub-note}
 Draft available upon request
 :::
-:::
-
-::: {.section-heading}
-Working Papers
 :::
 
 ::: {.pub-entry}
