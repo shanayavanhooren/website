@@ -53,8 +53,8 @@ $navbar-light-brand-color:   $ink-strong;
 // ── Base typography ──
 body {
   font-family: $font-family-serif;
-  font-size: 1.15rem;      // ~18.4px
-  line-height: 1.62;
+  font-size: 1.28rem;      // ~21.8px
+  line-height: 1.6;
   color: var(--ink);
   background-color: var(--bg);
   -webkit-font-smoothing: antialiased;
@@ -71,18 +71,35 @@ h1, h2, h3, h4 {
 p { margin-bottom: 1.1rem; }
 
 // ── Page layout ──
-#quarto-content {
-  max-width: 840px;
+// Collapse Quarto's page-columns grid (it caps content at a narrow track and
+// reserves the rest as empty gutters) so content uses the full column width.
+#quarto-content.page-columns {
+  display: block;
+  max-width: 1120px;
   margin: 0 auto;
-  padding: 3rem 2rem 4rem;
+  padding: 2.5rem 2rem 4rem;
+}
+
+main#quarto-document-content,
+#quarto-content main.content {
+  width: 100%;
+  max-width: 100%;
+  grid-column: unset;
+}
+
+// Constrain long-form running text to a comfortable reading measure while
+// letting structural blocks (photo row, headings) span the full width.
+.about-bio,
+.about-bio p {
+  max-width: 850px;
 }
 
 // Quarto page title (h1.title)
 #title-block-header .title,
 h1.title {
-  font-size: 2.15rem;
+  font-size: 2.7rem;
   margin-bottom: 1.75rem;
-  letter-spacing: -0.015em;
+  letter-spacing: -0.02em;
 }
 
 // ── Navbar ──
@@ -123,11 +140,11 @@ h1.title {
 
 // ── About / profile block ──
 .about-name {
-  font-size: 2.15rem;
+  font-size: 2.7rem;
   margin-top: 0;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.75rem;
   color: var(--ink-strong);
-  letter-spacing: -0.015em;
+  letter-spacing: -0.02em;
 }
 
 .about-top {
@@ -138,10 +155,10 @@ h1.title {
 }
 
 .about-top img {
-  width: 230px;
-  height: 275px;
+  width: 265px;
+  height: 315px;
   object-fit: cover;
-  object-position: top;
+  object-position: center 25%;
   border-radius: 6px;
   background-color: var(--surface);
   box-shadow: 0 2px 14px rgba($ink, 0.09);
