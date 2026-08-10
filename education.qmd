@@ -1,0 +1,37 @@
+---
+title: "Education"
+---
+
+```{=html}
+<div class="edu-entry">
+  <div class="edu-head">
+    <span class="edu-school">The University of Western Ontario</span>
+    <span class="edu-year">2025</span>
+  </div>
+  <span class="edu-degree">Ph.D., Political Science</span>
+  <div class="edu-detail">
+    <span class="edu-label">Fields:</span> Canadian Politics; Urban and Local Politics<br>
+    <span class="edu-label">Dissertation:</span> <em>Programmatic Polarization and Party Position Change in Canadian Provincial Party Systems, 1945–2020</em><br>
+    <span class="edu-label">Committee:</span> Dr. Zack Taylor (Supervisor), Dr. Laura Stephenson, and Dr. David A. Armstrong II
+  </div>
+  <div class="edu-links">
+    <a href="https://hdl.handle.net/20.500.14721/39192" target="_blank">Read dissertation</a>
+  </div>
+</div>
+
+<div class="edu-entry">
+  <div class="edu-head">
+    <span class="edu-school">University of Waterloo</span>
+    <span class="edu-year">2018</span>
+  </div>
+  <span class="edu-degree">M.A., Political Science (Thesis-Based)</span>
+</div>
+
+<div class="edu-entry">
+  <div class="edu-head">
+    <span class="edu-school">Wilfrid Laurier University</span>
+    <span class="edu-year">2017</span>
+  </div>
+  <span class="edu-degree">B.A. (Honours), History and Political Science with Research Specialization (Double Major)</span>
+</div>
+```
