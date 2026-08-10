@@ -6,7 +6,7 @@ title: "Education"
 <div class="edu-entry">
   <div class="edu-head">
     <span class="edu-school">The University of Western Ontario</span>
-    <span class="edu-year">2025</span>
+    <span class="edu-year">November 2025</span>
   </div>
   <span class="edu-degree">Ph.D., Political Science</span>
   <div class="edu-detail">
