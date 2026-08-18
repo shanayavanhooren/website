@@ -9,10 +9,10 @@ Peer-Reviewed Publications
 ::: {.pub-entry}
 <span class="pub-title">"Municipal Issue Publics."</span><br>
 <span class="pub-authors"><strong>Shanaya Vanhooren</strong>, Jack Lucas, and Sandra Breux</span><br>
-Forthcoming (2026), <span class="pub-journal">Urban Affairs Review</span>.
+<span class="pub-journal">Urban Affairs Review</span> (2026).
 
-::: {.pub-note}
-Draft available upon request
+::: {.pub-links}
+[Publisher](https://doi.org/10.1177/10780874261475602)
 :::
 :::
 
@@ -84,6 +84,15 @@ Draft available upon request
 :::
 
 ::: {.pub-entry}
+<span class="pub-title">"Centralizing Authority in Local Government: The Introduction of Strong Mayor Powers in Ontario, Canada."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong>, Zachary Spicer, and Gabriel Eidelman</span>
+
+::: {.pub-note}
+Draft available upon request
+:::
+:::
+
+::: {.pub-entry}
 <span class="pub-title">"Programmatic Polarization in Provincial Elections 1945–2020."</span><br>
 <span class="pub-authors"><strong>Shanaya Vanhooren</strong></span>
 
@@ -102,17 +111,18 @@ Draft available upon request
 :::
 
 ::: {.pub-entry}
-<span class="pub-title">"Centralizing Authority in Local Government: The Introduction of Strong Mayor Powers in Ontario, Canada."</span><br>
-<span class="pub-authors"><strong>Shanaya Vanhooren</strong>, Zachary Spicer, and Gabriel Eidelman</span>
-:::
-
-::: {.pub-entry}
 <span class="pub-title">"Informality and Accountability: Conversations Between Municipal Elected Officials and Citizens."</span><br>
 <span class="pub-authors">Sandra Breux and <strong>Shanaya Vanhooren</strong></span>
 :::
 
 ::: {.section-heading}
-Policy Reports & Non-Referred Contributions
+Policy Reports, Blogs & Other Non-Referred Contributions
+:::
+
+::: {.pub-entry}
+<span class="pub-title">"Whose Voice Counts? Uncovering Municipal Issue Publics."</span><br>
+<span class="pub-authors"><strong>Shanaya Vanhooren</strong></span><br>
+<span class="pub-journal">Urban Affairs Review</span> Blog (August 2026).
 :::
 
 ::: {.pub-entry}
