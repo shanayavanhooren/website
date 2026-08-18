@@ -123,6 +123,10 @@ Policy Reports, Blogs & Other Non-Referred Contributions
 <span class="pub-title">"Whose Voice Counts? Uncovering Municipal Issue Publics."</span><br>
 <span class="pub-authors"><strong>Shanaya Vanhooren</strong></span><br>
 <span class="pub-journal">Urban Affairs Review</span> Blog (August 2026).
+
+::: {.pub-links}
+[Read](https://www.urbanaffairsreview.com/uar-archive/whose-voice-counts-uncovering-municipal-issue-publics)
+:::
 :::
 
 ::: {.pub-entry}
@@ -135,6 +139,10 @@ Forthcoming (October 2026), <span class="pub-journal">Municipal World</span>.
 <span class="pub-title">"Close to Home: How the Location of Policies Shapes How People Think About Them."</span><br>
 <span class="pub-authors"><strong>Shanaya Vanhooren</strong></span><br>
 <span class="pub-journal">Canadian Municipal Barometer</span> Substack (June 2026).
+
+::: {.pub-links}
+[Read](https://cmbbmc.substack.com/p/close-to-home-how-the-location-of)
+:::
 :::
 
 ::: {.pub-entry}
